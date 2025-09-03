@@ -28,12 +28,24 @@ I’m passionate about building intelligent systems and applications that make a
 
 ---
 
-## 🚀 Featured Projects
-- **SupplyMind – Smart Inventory Forecasting**: AI-based system for demand prediction, overstock alerts, and OCR-powered stock updates.  
-- **AlzCare – Human Activity Recognition for Alzheimer’s Patients**: CNN-based abnormal activity detection with real-time alerts via a Flutter app.  
-- **Sign Language to Text Conversion**: ASL-to-text translator using CNN + Biogeography Optimization (99% accuracy).  
-- **COVID-19 Detection from X-Rays**: Deep learning models achieving 0.98 AUC with DenseNet121.  
-- **FitFlex**: A Django-based fitness platform deployed on AWS EC2.  
+## 🛠️ Personal Projects
+
+- [**Terminal Heat Stress on Wheat**](https://github.com/riyakansal04/terminal-heat-stresss): Analyzed wheat heat stress using NDVI data with ML models (LSTM, CNN-LSTM, SVM, RF). [AI/ML]  
+
+- [**SupplyMind – Inventory Forecasting**](https://github.com/your-github/SupplyMind): AI system for stock prediction, overstock/stock-out alerts, and OCR-based updates. [AI/ML, App Development]  
+
+- **AlzCare – Human Activity Recognition**: CNN-based activity detection with real-time alerts via a Flutter app. [AI/ML, App Development] ([Frontend](https://github.com/riyakansal04/AlzCare-Frontend-APP-), [Backend](https://github.com/riyakansal04/AlzCare-Backend))
+
+- [**Sign Language to Text**](https://github.com/riyakansal04/sign-language-recognition-): ASL-to-text translator using CNN + Biogeography-Based Optimization (99% accuracy). [AI/ML]  
+
+- [**Sentiment Analysis**](https://github.com/riyakansal04/sentiment-analysis-restaurant-reviews): Classifies restaurant reviews as positive/negative using Naive Bayes and ML models. [AI/ML]  
+
+- [**COVID-19 Detection from X-Rays**](https://github.com/riyakansal04/covid19-chest-xray-detection): Deep learning models (Custom CNN, DenseNet121, etc.) achieving up to 0.98 AUC. [AI/ML, Deep Learning]  
+
+- [**FitFlex**](https://github.com/riyakansal04/FitFlex): Django-based fitness platform with diet/exercise advice, deployed on AWS EC2. [Web Development]  
+
+- [**Smart Car Parking System**](https://github.com/riyakansal04/as-park-smart-parking-): IoT + ML system for smart parking and real-time slot management. [IoT, AI/ML]  
+
 
 ---
 
