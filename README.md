@@ -32,7 +32,7 @@ I’m passionate about building intelligent systems and applications that make a
 
 - [**Terminal Heat Stress on Wheat**](https://github.com/riyakansal04/terminal-heat-stress): Analyzed wheat heat stress using NDVI data with ML models (LSTM, CNN-LSTM, SVM, RF). [AI/ML]  
 
-- [**SupplyMind – Inventory Forecasting**](https://github.com/your-github/SupplyMind): AI system for stock prediction, overstock/stock-out alerts, and OCR-based updates. [AI/ML, App Development]  
+- [**SupplyMind – Inventory Forecasting**](https://github.com/riyakansal04/Supplymind/tree/main): AI system for stock prediction, overstock/stock-out alerts, and OCR-based updates. [AI/ML, App Development]  
 
 - **AlzCare – Human Activity Recognition**: CNN-based activity detection with real-time alerts via a Flutter app. [AI/ML, App Development] ([Frontend](https://github.com/riyakansal04/AlzCare-Frontend-APP-), [Backend](https://github.com/riyakansal04/AlzCare-Backend))
 
