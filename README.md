@@ -30,7 +30,7 @@ I’m passionate about building intelligent systems and applications that make a
 
 ## 🛠️ Personal Projects
 
-- [**Terminal Heat Stress on Wheat**](https://github.com/riyakansal04/terminal-heat-stresss): Analyzed wheat heat stress using NDVI data with ML models (LSTM, CNN-LSTM, SVM, RF). [AI/ML]  
+- [**Terminal Heat Stress on Wheat**](https://github.com/riyakansal04/terminal-heat-stress): Analyzed wheat heat stress using NDVI data with ML models (LSTM, CNN-LSTM, SVM, RF). [AI/ML]  
 
 - [**SupplyMind – Inventory Forecasting**](https://github.com/your-github/SupplyMind): AI system for stock prediction, overstock/stock-out alerts, and OCR-based updates. [AI/ML, App Development]  
 
