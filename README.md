@@ -38,7 +38,7 @@ I’m passionate about building intelligent systems and applications that make a
   AI-driven retail inventory forecasting system with OCR-based invoice automation, demand prediction, and real-time stock alerts.  
   `[AI/ML, Deep Learning, App Development]`
 
-- [**AlzCare – Human Activity Recognition for Alzheimer’s Care**](https://github.com/riyakansal04):  
+- [**AlzCare – Human Activity Recognition for Alzheimer’s Care**](https://github.com/riyakansal04/AlzCare-Frontend-APP-):  
   CNN-LSTM–based activity detection with real-time alerts, integrated with a Flutter mobile app for patient safety.  
   `[AI/ML, Computer Vision, Mobile App]`  
   👉 [Frontend](https://github.com/riyakansal04/AlzCare-Frontend-APP-) | [Backend](https://github.com/riyakansal04/AlzCare-Backend)
