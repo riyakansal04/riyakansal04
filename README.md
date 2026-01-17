@@ -2,32 +2,50 @@
 
 🎓 **Software Engineer | AI & ML Enthusiast | Flutter Developer**  
 
-I’m passionate about building intelligent systems and applications that make a real-world impact. Currently exploring the intersection of **Artificial Intelligence, Machine Learning, and App Development**, I love working on projects that blend innovation with problem-solving.  
+I’m passionate about building **intelligent, end-to-end systems** that solve real-world problems using **Artificial Intelligence, Machine Learning, and Mobile App Development**.  
+My work spans **research-driven projects, applied deep learning systems, and full-stack AI applications**, with a strong focus on impact, scalability, and usability.
 
 ---
 
 ## 🔭 What I’m Currently Working On
-- **AIoT Intern @ Sabudh Foundation** – Integrating AI with IoT for real-time applications in healthcare & smart cities.  
-- **SupplyMind** – AI-powered inventory forecasting system improving stock prediction & expiry management.  
-- **Research on Human Activity Recognition (AlzCare)** – Deep learning-based system to assist Alzheimer’s patients.  
+- **LifeTag** – A smart medicine safety & traceability system using QR-based prescriptions, expiry alerts, and centralized dashboards for patients, doctors, and pharmacies.  
+- **SupplyMind** – An AI-powered retail inventory forecasting system with OCR automation, demand prediction, and real-time stock alerts.  
+- **AlzCare (Research Project)** – A deep learning–based Human Activity Recognition system to assist Alzheimer’s patients through real-time monitoring and alerts.  
+- **NLP & LLM Projects** – Exploring semantic evolution, causal inference in language (TCLM), and website-based AI chatbots using LLM APIs.
 
 ---
 
 ## 🌱 Currently Learning
-- Edge-to-cloud AI architectures  
-- Advanced Deep Learning models (Transformers, N-BEATS)  
-- Real-time mobile app deployment with Flutter & Firebase  
+- Advanced Deep Learning architectures (Transformers, N-BEATS, CNN-LSTM)  
+- Large Language Models (LLMs), prompt engineering, and AI agents  
+- Scalable AI system design and deployment (Flask, cloud platforms)  
+- Real-time mobile app integration using Flutter & Firebase  
 
 ---
 
 ## 💻 Technical Skills
-- **Languages:** Python, C/C++, Dart, SQL  
-- **Frameworks & Tools:** TensorFlow, Keras, Django, Flutter, AWS (EC2), SQLite  
-- **Domains:** Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), NLP, Speech Recognition, IoT, Human Activity Recognition  
-- **Data Handling:** Pandas, NumPy, Matplotlib, Seaborn, Excel  
+
+### 🧑‍💻 Programming Languages
+- Python, C/C++, Dart, SQL  
+
+### 🧠 AI / ML & Data Science
+- TensorFlow, Keras  
+- Machine Learning, Deep Learning, NLP  
+- Time-Series Forecasting, Computer Vision, Human Activity Recognition  
+- Pandas, NumPy, Matplotlib, Seaborn  
+
+### 📱 App & Web Development
+- Flutter (Android / iOS)  
+- Flask, Django  
+- REST APIs, SQLite  
+
+### ☁️ Tools & Platforms
+- Git & GitHub  
+- AWS EC2  
+- Firebase  
+- VS Code  
 
 ---
-
 ## 🛠️ Personal Projects
 
 - [**Terminal Heat Stress on Wheat**](https://github.com/riyakansal04/terminal-heat-stress):  
@@ -51,6 +69,10 @@ I’m passionate about building intelligent systems and applications that make a
 - [**Temporal-Causal Language Manifold (TCLM)**](https://github.com/riyakansal04/Temporal-Causal-Language-Manifold-for-Semantic-Evolution):  
   Research-oriented framework to model semantic drift, narrative evolution, forecasting, and cross-source causal influence in text streams.  
   `[NLP, Time Series, Causal Inference, Research]`
+
+- [**Website-Based AI Chatbot (ChatGPT-style)**](https://github.com/riyakansal04/chatbot-assistant-):  
+  Built a console + web-based chatbot that scrapes website content and answers user queries using an LLM (Groq API, LLaMA 3.1), with Flask backend and deployed frontend.  
+  `[LLMs, NLP, Web Scraping, Flask, Deployment]`
 
 - [**Sign Language to Text Translator**](https://github.com/riyakansal04/sign-language-recognition-):  
   ASL-to-text translation using CNN with Biogeography-Based Optimization achieving **99% accuracy**.  
@@ -76,11 +98,9 @@ I’m passionate about building intelligent systems and applications that make a
 
 ## 📊 GitHub Stats
 
-![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyakansal04&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyakansal04&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyakansal04&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyakansal04&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyakansal04&layout=compact&theme=tokyonight)
 
 
 ---
