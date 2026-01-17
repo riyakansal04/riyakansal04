@@ -30,28 +30,58 @@ I’m passionate about building intelligent systems and applications that make a
 
 ## 🛠️ Personal Projects
 
-- [**Terminal Heat Stress on Wheat**](https://github.com/riyakansal04/terminal-heat-stress): Analyzed wheat heat stress using NDVI data with ML models (LSTM, CNN-LSTM, SVM, RF). [AI/ML]  
+- [**Terminal Heat Stress on Wheat**](https://github.com/riyakansal04/terminal-heat-stress):  
+  Analyzed wheat heat stress using NDVI data with ML models (LSTM, CNN-LSTM, SVM, RF).  
+  `[AI/ML, Remote Sensing]`
 
-- [**SupplyMind – Inventory Forecasting**](https://github.com/riyakansal04/Supplymind/tree/main): AI system for stock prediction, overstock/stock-out alerts, and OCR-based updates. [AI/ML, App Development]  
+- [**SupplyMind – Inventory Forecasting System**](https://github.com/riyakansal04/Supplymind/tree/main):  
+  AI-driven retail inventory forecasting system with OCR-based invoice automation, demand prediction, and real-time stock alerts.  
+  `[AI/ML, Deep Learning, App Development]`
 
-- **AlzCare – Human Activity Recognition**: CNN-based activity detection with real-time alerts via a Flutter app. [AI/ML, App Development] ([Frontend](https://github.com/riyakansal04/AlzCare-Frontend-APP-), [Backend](https://github.com/riyakansal04/AlzCare-Backend))
+- [**AlzCare – Human Activity Recognition for Alzheimer’s Care**](https://github.com/riyakansal04):  
+  CNN-LSTM–based activity detection with real-time alerts, integrated with a Flutter mobile app for patient safety.  
+  `[AI/ML, Computer Vision, Mobile App]`  
+  👉 [Frontend](https://github.com/riyakansal04/AlzCare-Frontend-APP-) | [Backend](https://github.com/riyakansal04/AlzCare-Backend)
 
-- [**Sign Language to Text**](https://github.com/riyakansal04/sign-language-recognition-): ASL-to-text translator using CNN + Biogeography-Based Optimization (99% accuracy). [AI/ML]  
+- [**LifeTag – Smart Medicine Safety & Traceability System**](https://github.com/riyakansal04/LifeTag):  
+  QR-based digital prescription and medicine traceability platform with expiry alerts, pharmacy verification, and centralized dashboards.  
+  `[HealthTech, AI, Full Stack]`  
+  👉 [Frontend](https://github.com/riyakansal04/LifeTag) | [Backend](https://github.com/riyakansal04/LifeTag-)
 
-- [**Sentiment Analysis**](https://github.com/riyakansal04/sentiment-analysis-restaurant-reviews): Classifies restaurant reviews as positive/negative using Naive Bayes and ML models. [AI/ML]  
+- [**Temporal-Causal Language Manifold (TCLM)**](https://github.com/riyakansal04/Temporal-Causal-Language-Manifold-for-Semantic-Evolution):  
+  Research-oriented framework to model semantic drift, narrative evolution, forecasting, and cross-source causal influence in text streams.  
+  `[NLP, Time Series, Causal Inference, Research]`
 
-- [**COVID-19 Detection from X-Rays**](https://github.com/riyakansal04/covid19-chest-xray-detection): Deep learning models (Custom CNN, DenseNet121, etc.) achieving up to 0.98 AUC. [AI/ML, Deep Learning]  
+- [**Sign Language to Text Translator**](https://github.com/riyakansal04/sign-language-recognition-):  
+  ASL-to-text translation using CNN with Biogeography-Based Optimization achieving **99% accuracy**.  
+  `[AI/ML, Computer Vision]`
 
-- [**FitFlex**](https://github.com/riyakansal04/FitFlex): Django-based fitness platform with diet/exercise advice, deployed on AWS EC2. [Web Development]  
+- [**Sentiment Analysis – Restaurant Reviews**](https://github.com/riyakansal04/sentiment-analysis-restaurant-reviews):  
+  ML-based sentiment classification using Naive Bayes and traditional ML models.  
+  `[AI/ML, NLP]`
 
-- [**Smart Car Parking System**](https://github.com/riyakansal04/as-park-smart-parking-): IoT + ML system for smart parking and real-time slot management. [IoT, AI/ML]  
+- [**COVID-19 Detection from Chest X-Rays**](https://github.com/riyakansal04/covid19-chest-xray-detection):  
+  Deep learning models (Custom CNN, DenseNet121, etc.) achieving up to **0.98 AUC**.  
+  `[Deep Learning, Medical Imaging]`
 
+- [**FitFlex – Fitness & Wellness Platform**](https://github.com/riyakansal04/FitFlex):  
+  Django-based fitness platform offering diet and exercise guidance, deployed on AWS EC2.  
+  `[Web Development, Cloud]`
+
+- [**Smart Car Parking System**](https://github.com/riyakansal04/as-park-smart-parking-):  
+  IoT + ML-based smart parking system for real-time slot management and automation.  
+  `[IoT, AI/ML]`
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyakansal04&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyakansal04&layout=compact&theme=tokyonight)  
+
+![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyakansal04&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyakansal04&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyakansal04&theme=tokyonight&hide_border=true)
+
 
 ---
 
